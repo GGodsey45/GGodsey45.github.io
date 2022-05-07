@@ -5,12 +5,12 @@
 
   
 
-  <ol>
-    <li> [Divison](Divison.md)</li>
-    <li> Chiefs Stadium</li>
-    <li>Defensive Players</li>
-    <li>Offensive Players</li>
-    </ol>
+  
+     [Divison](Divison.md)
+     Chiefs Stadium
+     Defensive Players
+     Offensive Players
+    
 
   
   
